@@ -2,12 +2,17 @@
 
 Distribution fortunately or unfortunately has become an integral part of any startup's pitch and strategy. VCs expect that a startup's series A pitch or even seed will have a distribution strategy. From what I have learned from talking to marketers at large and small companies is not much, but it gives me confidence that any team with discipline and solid execution can become their own marketers without hiring an internal or relying on an external expert. 
 
-I want to talk about two things below:
+There are a couple of ways to pursue distribution:
 
 1. Branding
 2. Marketing
+3. PR
+4. Viral
 
-Not only the high level, but what low level activities these should impact.
+I'll go through these, not only the high level, but what low level activities these should impact.
+
+--- 
+**Caveat** Most of the advice below is talking about consumer marketing, aka when you are looking to talk to the users of your product. There is a separate type of marketing called Corporate Marketing. This is specifically focused on targeting investors or employees etc. The purpose is to help get resources for your company (things you'd use). Different from people that will use your product.
 
 ## Branding
 
@@ -51,7 +56,8 @@ Marketing is a bigger beast than branding with plenty of pointy edges that are j
 All that being said, there are still some high level frameworks that can guide us in how we choose to market.
 
 1. Behavior Personas
-2. 
+2. Goal of Marketing
+3. Types of Marketing
 
 ### Behavior Personas
 
@@ -81,3 +87,51 @@ Once you define that behavior you will want to start to understand those people 
 
 You'll want to understand them enough to be able to market to them!
 
+Use this to understand where PR will work best and what type of marketing will work best.
+
+### Goal of Marketing
+
+A good framework to view the goal of marketing is: Know Feel Do. You want people that exhibit your behavior personas to:
+
+* Know some information about your product, eg. know that your product is a solution to their problem
+* Feel some way about your company or product, eg. feel relieved that they have found a solution to their problem
+* Do something related to your product, eg. do purchase your product
+
+Ultimately you are looking to change people's behavior via marketing. If that change does not fit into this framework, no problem. But if you are looking for a way to narrow down on your goal, then this can be a good framework.
+
+### Types of Marketing
+
+Now we are going to get a bit into specifics and some bits of advice on different channels. Choosing channels can be extremely important and there is a bit of intuition as to which channel you should pursue. But often the best advice is to try different channels for a couple of weeks and then if you don't see meaningful gains, try a different one out.
+
+Below is a non-comprehensive list of channels and some small bits of advice for each:
+
+* SEM
+  * Branded keywords (capitalized words)
+  * Non-branded keywords (intent)
+* SEO
+* Display ads
+* Social
+* Content Marketing
+* Groupon/daily deals
+* Street marketing
+* B2B sales
+* Direct mailers 
+
+My only advice is you can be a bit quirky here. This is a great place to be creative!
+
+## PR
+
+Once you have created behavior personas and learn where people that exhibit this behavior hang out, then you can start targeting those areas with PR. 
+
+## Viral
+
+Viral marketing is trying to leverage your current customers to grow. 
+
+There are many ways to achieve this but most involve some form of **referrals**. Often people make this more technical than it needs to be, but there are a couple of terms that people should know:
+
+* Viral Coefficient - on average, how many people join your platform from viral each month / the number of people you have that month
+* Payload - the amount of people you can hit with a viral blast (eg. enabling a type of referral discount)
+* Conversion Rate - for each person hit, what is the chance they convert
+* Frequency - the frequency of payloads
+
+I have no specific advice for this subject other than experiment. Maybe I'll add something later. 
