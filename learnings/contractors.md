@@ -1,10 +1,13 @@
 # Contractors
-Contractors epitomize agency and myopia problems. They don’t have skin in the game, and you will only work with them for a limited time. That being said, contractors can help fill temporary positions or lack of skills. So there is a place and time for contractors, you just need to know how to get the most out of the relationship. 
 
-Below I’ve written down some small nuggets of advice on making that relationship fruitful. 
+Contractors epitomize agency and myopia problems. They don’t have skin in the game, and you will only work with them for a limited time. That being said, contractors can help fill temporary positions or lack of skills. So there is a place and time for contractors, you just need to know how to get the most out of the relationship.
 
-## Trust
-This is the biggest problems. Repeated games over long periods of time are the best ways to incentivize people to work well together: being honest, having alignment of values, etc. You don’t have this with contractors. 
+Below, I’ve written down some small nuggets of advice on making that relationship fruitful.
+
+
+# Trust
+
+This is the biggest problem. Repeated games over long periods of time are the best ways to incentivize people to work well together, eg. being honest, having alignment of values, etc. -- you don’t have this with contractors.
 
 This problem manifests in many ways. Here are some examples of what has happened to me in the past:
 
