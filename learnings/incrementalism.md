@@ -78,6 +78,14 @@ A lovely benefit of incrementalism/prioritization is that it will allow you to t
 
 By being incremental you focus on the core use cases and make your product with those in mind. This focus in itself can be a massive boon to other areas of your business.
 
+### **Build At Your Scale + 1**
+
+Good artists copy and the great artist steal. You'll find yourself doing the same thing at startups. Copying features from other startups in related categories can be a great way to leapfrog their progress. However it leads to a trap.
+
+Copying things from startups that are too far ahead of you can have you over building very easily. Copying complex designs from a series D startup when you're still a series seed, creates a ton of extra work every time you iterate on that feature. And believe me you'll be iterating a lot.
+
+The simple advice is only copy things from your competitors that are one or two stages ahead of you. This way you're Still leapfrogging, but you're not tying yourself to complexity that you can't afford to maintain. 
+
 
 ### **Small Victories**
 
