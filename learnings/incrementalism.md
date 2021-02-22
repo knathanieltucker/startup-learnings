@@ -6,7 +6,7 @@ If you first start reading about how to do startups (in a book perhaps), you'll 
 
 You know there are good reasons for this and people repeatedly tell you: you'll move faster and learn more. You'll fail fast!
 
-While the advice is good, I think there are two problems with it: 1) we don't know what being incremental means on the ground level, and 2) the pros are exceptionally good that it sounds like snake oil.
+While the advice is good, I think there are two problems with it: 1) we don't know what being incremental means on the ground level, and 2) the pros are so exceptionally good that it sounds like snake oil.
 
 I’ll try to address some of those here.
 
@@ -61,16 +61,13 @@ If you are ever in that situation, **think incrementally**. Spend time to break 
 
 
 
-1. 
-Time estimation: the larger the project the worse your time estimates will be. People are good at estimating projects they have done many times before. And while it is not impossible to have experience pushing many big projects, you’ll find that most people have more experience estimating how long shorter projects will be.
+1. Time estimation: the larger the project the worse your time estimates will be. People are good at estimating projects they have done many times before. And while it is not impossible to have experience pushing many big projects, you’ll find that most people have more experience estimating how long shorter projects will be.
 
 
-2. 
-Collaboration: part of the boon here just comes from writing down things that were previously implicit (but there will be another article on that). The other benefit of small tasks is that you can more easily split them between more than one person. Don’t get me wrong, sometimes one person projects are okay, but I’d always advise against it initially.
+2. Collaboration: part of the boon here just comes from writing down things that were previously implicit (but there will be another article on that). The other benefit of small tasks is that you can more easily split them between more than one person. Don’t get me wrong, sometimes one person projects are okay, but I’d always advise against it initially.
 
 
-3. 
-Prioritization: Prioritization is a much more natural way to decide on what features to build next. It's not vetoing features or tearing up other peoples' ideas, but instead, you are just acknowledging that we can't do everything at once. Too often we have wishes without constraints, and forgetting about those constraints can bite you in the butt. You'll end up missing deadlines, breaking promises or working yourself to death. Prioritization is a way to work while recognizing resource constraints.
+3. Prioritization: Prioritization is a much more natural way to decide on what features to build next. It's not vetoing features or tearing up other peoples' ideas, but instead, you are just acknowledging that we can't do everything at once. Too often we have wishes without constraints, and forgetting about those constraints can bite you in the butt. You'll end up missing deadlines, breaking promises or working yourself to death. Prioritization is a way to work while recognizing resource constraints.
 
 ### **Don't Build For Edge Cases**
 
